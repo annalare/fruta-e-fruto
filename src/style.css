@@ -11,6 +11,11 @@
 h1 {
   font-family: "Pacifico", cursive;
 }
+.fruto {
+  font-family: "Pacifico", cursive;
+  color: darkred !important;
+  font-size: 30px;
+}
 .card-largura {
   width: 18rem;
 }
